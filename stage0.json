@@ -1,0 +1,1146 @@
+{
+  "metadata": {
+    "stage": 0,
+    "title": "基本活用",
+    "description": "エスペラントの基本語尾・数・格・動詞活用・代名詞・分詞の基礎",
+    "count": 42,
+    "units": 1,
+    "version": 1
+  },
+  "words": [
+    {
+      "id": 1,
+      "stage": 0,
+      "unit": 1,
+      "number": 1,
+      "word": "名詞の基本語尾は？",
+      "meanings": [
+        "-o"
+      ],
+      "partOfSpeech": "名詞",
+      "note": "名詞は原則として -o で終わります。",
+      "example": {
+        "eo": "libro estas libro.",
+        "ja": "libro は『本』という名詞です。"
+      },
+      "relatedWords": [
+        {
+          "word": "libro",
+          "meaning": "本"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "語尾 -o を見れば、まず名詞と判断できます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 2,
+      "stage": 0,
+      "unit": 1,
+      "number": 2,
+      "word": "形容詞の基本語尾は？",
+      "meanings": [
+        "-a"
+      ],
+      "partOfSpeech": "形容詞",
+      "note": "形容詞は原則として -a で終わります。",
+      "example": {
+        "eo": "bona libro",
+        "ja": "良い本"
+      },
+      "relatedWords": [
+        {
+          "word": "bona",
+          "meaning": "良い"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "語尾 -a は性質を表す形容詞の目印です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 3,
+      "stage": 0,
+      "unit": 1,
+      "number": 3,
+      "word": "副詞の基本語尾は？",
+      "meanings": [
+        "-e"
+      ],
+      "partOfSpeech": "副詞",
+      "note": "派生副詞は原則として -e で終わります。",
+      "example": {
+        "eo": "Li kuras rapide.",
+        "ja": "彼は速く走ります。"
+      },
+      "relatedWords": [
+        {
+          "word": "rapide",
+          "meaning": "速く"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "形容詞 rapida（速い）→副詞 rapide（速く）のように変化します。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 4,
+      "stage": 0,
+      "unit": 1,
+      "number": 4,
+      "word": "動詞の不定形の語尾は？",
+      "meanings": [
+        "-i"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "辞書に載る動詞の基本形は -i で終わります。",
+      "example": {
+        "eo": "Mi volas lerni.",
+        "ja": "私は学びたいです。"
+      },
+      "relatedWords": [
+        {
+          "word": "lerni",
+          "meaning": "学ぶ"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "英語の to learn に近い辞書形です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 5,
+      "stage": 0,
+      "unit": 1,
+      "number": 5,
+      "word": "動詞の現在形の語尾は？",
+      "meanings": [
+        "-as"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "現在の動作・状態は -as を使います。",
+      "example": {
+        "eo": "Mi lernas Esperanton.",
+        "ja": "私はエスペラントを学んでいます。"
+      },
+      "relatedWords": [
+        {
+          "word": "lernas",
+          "meaning": "学ぶ・学んでいる"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "主語が変わっても -as のままです。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 6,
+      "stage": 0,
+      "unit": 1,
+      "number": 6,
+      "word": "動詞の過去形の語尾は？",
+      "meanings": [
+        "-is"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "過去の動作・状態は -is を使います。",
+      "example": {
+        "eo": "Mi lernis hieraŭ.",
+        "ja": "私は昨日学びました。"
+      },
+      "relatedWords": [
+        {
+          "word": "lernis",
+          "meaning": "学んだ"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "英語のような不規則過去形はありません。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 7,
+      "stage": 0,
+      "unit": 1,
+      "number": 7,
+      "word": "動詞の未来形の語尾は？",
+      "meanings": [
+        "-os"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "未来の動作・状態は -os を使います。",
+      "example": {
+        "eo": "Mi lernos morgaŭ.",
+        "ja": "私は明日学びます。"
+      },
+      "relatedWords": [
+        {
+          "word": "lernos",
+          "meaning": "学ぶだろう"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "未来を示す助動詞を別に置かず、語尾 -os で表せます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 8,
+      "stage": 0,
+      "unit": 1,
+      "number": 8,
+      "word": "動詞の条件形の語尾は？",
+      "meanings": [
+        "-us"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "仮定・条件・婉曲表現などに -us を使います。",
+      "example": {
+        "eo": "Mi irus, se mi povus.",
+        "ja": "できるなら私は行くでしょう。"
+      },
+      "relatedWords": [
+        {
+          "word": "irus",
+          "meaning": "行くだろうに"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "『もし～なら』のような仮定でよく使います。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 9,
+      "stage": 0,
+      "unit": 1,
+      "number": 9,
+      "word": "命令・意志を表す動詞語尾は？",
+      "meanings": [
+        "-u"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "命令・依頼・意志・勧誘などに -u を使います。",
+      "example": {
+        "eo": "Venu ĉi tien.",
+        "ja": "こちらへ来てください。"
+      },
+      "relatedWords": [
+        {
+          "word": "venu",
+          "meaning": "来て"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "単純な命令だけでなく『～しよう』などにも使われます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 10,
+      "stage": 0,
+      "unit": 1,
+      "number": 10,
+      "word": "名詞を複数形にする語尾は？",
+      "meanings": [
+        "-j"
+      ],
+      "partOfSpeech": "名詞・形容詞",
+      "note": "複数を表すときは語尾の後ろに -j を付けます。",
+      "example": {
+        "eo": "libro → libroj",
+        "ja": "本 → 複数の本"
+      },
+      "relatedWords": [
+        {
+          "word": "libroj",
+          "meaning": "本（複数）"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "発音上も j は消えず、複数を示す重要な要素です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 11,
+      "stage": 0,
+      "unit": 1,
+      "number": 11,
+      "word": "名詞を対格にする語尾は？",
+      "meanings": [
+        "-n"
+      ],
+      "partOfSpeech": "名詞・形容詞",
+      "note": "直接目的語などを示す対格では -n を付けます。",
+      "example": {
+        "eo": "Mi legas libron.",
+        "ja": "私は本を読みます。"
+      },
+      "relatedWords": [
+        {
+          "word": "libron",
+          "meaning": "本を"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "日本語の『～を』に近い働きをする場合が多いです。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 12,
+      "stage": 0,
+      "unit": 1,
+      "number": 12,
+      "word": "複数かつ対格の名詞語尾は？",
+      "meanings": [
+        "-ojn"
+      ],
+      "partOfSpeech": "名詞",
+      "note": "名詞 -o + 複数 -j + 対格 -n で -ojn になります。",
+      "example": {
+        "eo": "Mi legas librojn.",
+        "ja": "私は複数の本を読みます。"
+      },
+      "relatedWords": [
+        {
+          "word": "librojn",
+          "meaning": "本々を・複数の本を"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "順番は o → j → n で固定です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 13,
+      "stage": 0,
+      "unit": 1,
+      "number": 13,
+      "word": "形容詞を複数形にする語尾は？",
+      "meanings": [
+        "-aj"
+      ],
+      "partOfSpeech": "形容詞",
+      "note": "修飾する名詞が複数なら、形容詞にも -j を付けます。",
+      "example": {
+        "eo": "bonaj libroj",
+        "ja": "良い本々・良い複数の本"
+      },
+      "relatedWords": [
+        {
+          "word": "bonaj",
+          "meaning": "良い（複数）"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "形容詞は名詞と数を一致させます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 14,
+      "stage": 0,
+      "unit": 1,
+      "number": 14,
+      "word": "形容詞を対格にする語尾は？",
+      "meanings": [
+        "-an"
+      ],
+      "partOfSpeech": "形容詞",
+      "note": "修飾する名詞が対格なら、形容詞にも -n を付けます。",
+      "example": {
+        "eo": "Mi legas bonan libron.",
+        "ja": "私は良い本を読みます。"
+      },
+      "relatedWords": [
+        {
+          "word": "bonan",
+          "meaning": "良い～を"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "形容詞は名詞と格を一致させます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 15,
+      "stage": 0,
+      "unit": 1,
+      "number": 15,
+      "word": "複数かつ対格の形容詞語尾は？",
+      "meanings": [
+        "-ajn"
+      ],
+      "partOfSpeech": "形容詞",
+      "note": "形容詞 -a + 複数 -j + 対格 -n で -ajn になります。",
+      "example": {
+        "eo": "Mi legas bonajn librojn.",
+        "ja": "私は良い本を複数読みます。"
+      },
+      "relatedWords": [
+        {
+          "word": "bonajn",
+          "meaning": "良い（複数・対格）"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "a → j → n の順で組み立てます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 16,
+      "stage": 0,
+      "unit": 1,
+      "number": 16,
+      "word": "形容詞は名詞の数に一致する？",
+      "meanings": [
+        "はい。単数・複数を一致させる"
+      ],
+      "partOfSpeech": "形容詞",
+      "note": "名詞が複数なら形容詞も複数形 -aj になります。",
+      "example": {
+        "eo": "granda domo / grandaj domoj",
+        "ja": "大きな家 / 大きな家々"
+      },
+      "relatedWords": [
+        {
+          "word": "grandaj",
+          "meaning": "大きい（複数）"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "英語と違い、形容詞側にも複数標識が付きます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 17,
+      "stage": 0,
+      "unit": 1,
+      "number": 17,
+      "word": "形容詞は名詞の格に一致する？",
+      "meanings": [
+        "はい。対格なら形容詞にも -n を付ける"
+      ],
+      "partOfSpeech": "形容詞",
+      "note": "名詞が対格なら、その名詞を修飾する形容詞も対格にします。",
+      "example": {
+        "eo": "Mi vidas grandan domon.",
+        "ja": "私は大きな家を見ます。"
+      },
+      "relatedWords": [
+        {
+          "word": "grandan",
+          "meaning": "大きな～を"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "『名詞だけ -n』ではない点が初心者の要注意箇所です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 18,
+      "stage": 0,
+      "unit": 1,
+      "number": 18,
+      "word": "定冠詞 la は数や格で変化する？",
+      "meanings": [
+        "変化しない"
+      ],
+      "partOfSpeech": "冠詞",
+      "note": "la は単数・複数・主格・対格のどれでも同じ形です。",
+      "example": {
+        "eo": "la libro / la libroj / la libron",
+        "ja": "その本 / その本々 / その本を"
+      },
+      "relatedWords": [
+        {
+          "word": "la",
+          "meaning": "その"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "冠詞 la 自体には -j や -n を付けません。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 19,
+      "stage": 0,
+      "unit": 1,
+      "number": 19,
+      "word": "動詞は主語の人称で形が変わる？",
+      "meanings": [
+        "変わらない"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "mi, vi, li, ni, ili など主語が変わっても動詞語尾は同じです。",
+      "example": {
+        "eo": "Mi lernas. Ili lernas.",
+        "ja": "私は学ぶ。彼らは学ぶ。"
+      },
+      "relatedWords": [
+        {
+          "word": "lernas",
+          "meaning": "学ぶ"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "英語の learns のような三人称単数変化はありません。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 20,
+      "stage": 0,
+      "unit": 1,
+      "number": 20,
+      "word": "動詞は主語の単数・複数で形が変わる？",
+      "meanings": [
+        "変わらない"
+      ],
+      "partOfSpeech": "動詞",
+      "note": "主語が単数でも複数でも時制語尾は同じです。",
+      "example": {
+        "eo": "Li iras. Ili iras.",
+        "ja": "彼は行く。彼らは行く。"
+      },
+      "relatedWords": [
+        {
+          "word": "iras",
+          "meaning": "行く"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "人称・数による活用がないことがエスペラントの大きな特徴です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 21,
+      "stage": 0,
+      "unit": 1,
+      "number": 21,
+      "word": "mi の対格は？",
+      "meanings": [
+        "min"
+      ],
+      "partOfSpeech": "代名詞",
+      "note": "代名詞も対格では -n を付けます。",
+      "example": {
+        "eo": "Ŝi vidas min.",
+        "ja": "彼女は私を見ます。"
+      },
+      "relatedWords": [
+        {
+          "word": "min",
+          "meaning": "私を"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "mi + n = min と規則通りです。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 22,
+      "stage": 0,
+      "unit": 1,
+      "number": 22,
+      "word": "vi の対格は？",
+      "meanings": [
+        "vin"
+      ],
+      "partOfSpeech": "代名詞",
+      "note": "vi に -n を付けて vin になります。",
+      "example": {
+        "eo": "Mi vidas vin.",
+        "ja": "私はあなたを見ます。"
+      },
+      "relatedWords": [
+        {
+          "word": "vin",
+          "meaning": "あなたを"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "単数・複数の vi どちらでも vin です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 23,
+      "stage": 0,
+      "unit": 1,
+      "number": 23,
+      "word": "li / ŝi / ĝi の対格は？",
+      "meanings": [
+        "lin / ŝin / ĝin"
+      ],
+      "partOfSpeech": "代名詞",
+      "note": "三人称代名詞にも規則通り -n を付けます。",
+      "example": {
+        "eo": "Mi vidas lin.",
+        "ja": "私は彼を見ます。"
+      },
+      "relatedWords": [
+        {
+          "word": "lin",
+          "meaning": "彼を"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "特別な不規則形はなく、単純に -n を追加します。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 24,
+      "stage": 0,
+      "unit": 1,
+      "number": 24,
+      "word": "ni / ili の対格は？",
+      "meanings": [
+        "nin / ilin"
+      ],
+      "partOfSpeech": "代名詞",
+      "note": "複数の人称代名詞にも -n を付けます。",
+      "example": {
+        "eo": "Ili vidas nin.",
+        "ja": "彼らは私たちを見ます。"
+      },
+      "relatedWords": [
+        {
+          "word": "nin",
+          "meaning": "私たちを"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "ni + n、ili + n と機械的に作れます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 25,
+      "stage": 0,
+      "unit": 1,
+      "number": 25,
+      "word": "再帰代名詞 si の対格は？",
+      "meanings": [
+        "sin"
+      ],
+      "partOfSpeech": "代名詞",
+      "note": "si に -n を付けると sin になります。",
+      "example": {
+        "eo": "Li lavas sin.",
+        "ja": "彼は自分自身を洗います。"
+      },
+      "relatedWords": [
+        {
+          "word": "sin",
+          "meaning": "自分自身を"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "si は原則として三人称の主語自身を指します。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 26,
+      "stage": 0,
+      "unit": 1,
+      "number": 26,
+      "word": "所有形容詞はどう作る？",
+      "meanings": [
+        "人称代名詞に -a を付ける"
+      ],
+      "partOfSpeech": "代名詞・形容詞",
+      "note": "mi → mia、vi → via、ni → nia など、-a で所有を表します。",
+      "example": {
+        "eo": "mia libro",
+        "ja": "私の本"
+      },
+      "relatedWords": [
+        {
+          "word": "mia",
+          "meaning": "私の"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "所有形も形容詞なので、必要なら -j や -n で一致します。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 27,
+      "stage": 0,
+      "unit": 1,
+      "number": 27,
+      "word": "『私の』を表す形は？",
+      "meanings": [
+        "mia"
+      ],
+      "partOfSpeech": "所有形容詞",
+      "note": "mi + -a で mia になります。",
+      "example": {
+        "eo": "mia amiko",
+        "ja": "私の友人"
+      },
+      "relatedWords": [
+        {
+          "word": "mia",
+          "meaning": "私の"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "人称代名詞に形容詞語尾 -a を付けるだけです。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 28,
+      "stage": 0,
+      "unit": 1,
+      "number": 28,
+      "word": "『彼らの』を表す形は？",
+      "meanings": [
+        "ilia"
+      ],
+      "partOfSpeech": "所有形容詞",
+      "note": "ili + -a で ilia になります。",
+      "example": {
+        "eo": "ilia domo",
+        "ja": "彼らの家"
+      },
+      "relatedWords": [
+        {
+          "word": "ilia",
+          "meaning": "彼らの"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "所有形も規則的で、不規則形を暗記する必要はありません。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 29,
+      "stage": 0,
+      "unit": 1,
+      "number": 29,
+      "word": "再帰所有『自分自身の』を表す形は？",
+      "meanings": [
+        "sia"
+      ],
+      "partOfSpeech": "所有形容詞",
+      "note": "si + -a で sia になります。",
+      "example": {
+        "eo": "Li legas sian libron.",
+        "ja": "彼は自分自身の本を読みます。"
+      },
+      "relatedWords": [
+        {
+          "word": "sia",
+          "meaning": "自分自身の"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "lia（彼の）と sia（主語自身の）は意味が異なります。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 30,
+      "stage": 0,
+      "unit": 1,
+      "number": 30,
+      "word": "形容詞の比較級はどう作る？",
+      "meanings": [
+        "pli + 形容詞"
+      ],
+      "partOfSpeech": "比較",
+      "note": "語尾変化ではなく pli を前に置いて比較級を作ります。",
+      "example": {
+        "eo": "pli granda",
+        "ja": "より大きい"
+      },
+      "relatedWords": [
+        {
+          "word": "pli",
+          "meaning": "より"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "英語の -er のような不規則変化はありません。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 31,
+      "stage": 0,
+      "unit": 1,
+      "number": 31,
+      "word": "形容詞の最上級はどう作る？",
+      "meanings": [
+        "plej + 形容詞"
+      ],
+      "partOfSpeech": "比較",
+      "note": "plej を前に置いて最上級を作ります。",
+      "example": {
+        "eo": "la plej granda",
+        "ja": "最も大きい"
+      },
+      "relatedWords": [
+        {
+          "word": "plej",
+          "meaning": "最も"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "通常は定冠詞 la と一緒に使われることが多いです。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 32,
+      "stage": 0,
+      "unit": 1,
+      "number": 32,
+      "word": "現在能動分詞の語幹は？",
+      "meanings": [
+        "-ant-"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "動作中・現在的な能動を表します。形容詞なら -anta。",
+      "example": {
+        "eo": "lernanta studento",
+        "ja": "学んでいる学生"
+      },
+      "relatedWords": [
+        {
+          "word": "lernanta",
+          "meaning": "学んでいる"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "lern-i の語根 lern- + ant + a と組み立てます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 33,
+      "stage": 0,
+      "unit": 1,
+      "number": 33,
+      "word": "過去能動分詞の語幹は？",
+      "meanings": [
+        "-int-"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "すでに行った能動の動作を表します。形容詞なら -inta。",
+      "example": {
+        "eo": "lerninta studento",
+        "ja": "学び終えた学生"
+      },
+      "relatedWords": [
+        {
+          "word": "lerninta",
+          "meaning": "学んだ・学び終えた"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "-int- は完了した能動動作の目印です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 34,
+      "stage": 0,
+      "unit": 1,
+      "number": 34,
+      "word": "未来能動分詞の語幹は？",
+      "meanings": [
+        "-ont-"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "これから行う能動の動作を表します。形容詞なら -onta。",
+      "example": {
+        "eo": "lernonta studento",
+        "ja": "これから学ぶ学生"
+      },
+      "relatedWords": [
+        {
+          "word": "lernonta",
+          "meaning": "これから学ぶ"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "-ont- は予定・未来方向の能動を表します。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 35,
+      "stage": 0,
+      "unit": 1,
+      "number": 35,
+      "word": "現在受動分詞の語幹は？",
+      "meanings": [
+        "-at-"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "現在進行中・反復的な受動を表します。形容詞なら -ata。",
+      "example": {
+        "eo": "legata libro",
+        "ja": "読まれている本"
+      },
+      "relatedWords": [
+        {
+          "word": "legata",
+          "meaning": "読まれている"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "能動 -ant- と受動 -at- を対で覚えると整理しやすいです。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 36,
+      "stage": 0,
+      "unit": 1,
+      "number": 36,
+      "word": "過去受動分詞の語幹は？",
+      "meanings": [
+        "-it-"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "完了した受動の動作を表します。形容詞なら -ita。",
+      "example": {
+        "eo": "legita libro",
+        "ja": "読まれた本"
+      },
+      "relatedWords": [
+        {
+          "word": "legita",
+          "meaning": "読まれた"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "『～された状態』で頻出する分詞です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 37,
+      "stage": 0,
+      "unit": 1,
+      "number": 37,
+      "word": "未来受動分詞の語幹は？",
+      "meanings": [
+        "-ot-"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "これから受ける受動の動作を表します。形容詞なら -ota。",
+      "example": {
+        "eo": "legota libro",
+        "ja": "これから読まれる本"
+      },
+      "relatedWords": [
+        {
+          "word": "legota",
+          "meaning": "これから読まれる"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "-ot- は未来方向の受動を表します。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 38,
+      "stage": 0,
+      "unit": 1,
+      "number": 38,
+      "word": "分詞を形容詞として使う語尾は？",
+      "meanings": [
+        "-a"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "分詞語幹 -ant-, -int-, -ont-, -at-, -it-, -ot- に -a を付けます。",
+      "example": {
+        "eo": "leganta homo",
+        "ja": "読んでいる人"
+      },
+      "relatedWords": [
+        {
+          "word": "leganta",
+          "meaning": "読んでいる"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "分詞も最終的には通常の品詞語尾を付けて使います。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 39,
+      "stage": 0,
+      "unit": 1,
+      "number": 39,
+      "word": "分詞を名詞として使う語尾は？",
+      "meanings": [
+        "-o"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "分詞語幹に -o を付けると、その動作をする人・受ける人などを名詞化できます。",
+      "example": {
+        "eo": "lernanto",
+        "ja": "学習者"
+      },
+      "relatedWords": [
+        {
+          "word": "lernanto",
+          "meaning": "学ぶ人・学習者"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "lern-ant-o のように分解できます。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 40,
+      "stage": 0,
+      "unit": 1,
+      "number": 40,
+      "word": "分詞を副詞として使う語尾は？",
+      "meanings": [
+        "-e"
+      ],
+      "partOfSpeech": "分詞",
+      "note": "分詞語幹に -e を付けると副詞的に使えます。",
+      "example": {
+        "eo": "Legante, mi lernas.",
+        "ja": "読みながら私は学びます。"
+      },
+      "relatedWords": [
+        {
+          "word": "legante",
+          "meaning": "読みながら"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "主節と同じ主語の付帯状況を表すのに便利です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 41,
+      "stage": 0,
+      "unit": 1,
+      "number": 41,
+      "word": "複合時制はどう作る？",
+      "meanings": [
+        "esti + 分詞"
+      ],
+      "partOfSpeech": "動詞・分詞",
+      "note": "esti の時制形と分詞を組み合わせて、より細かな時制・相・受動を表せます。",
+      "example": {
+        "eo": "La libro estas legita.",
+        "ja": "その本は読まれています／読了済みです。"
+      },
+      "relatedWords": [
+        {
+          "word": "estas legita",
+          "meaning": "読まれている・読了済みである"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "初級では単純時制を優先し、必要になったら複合時制を使えば十分です。",
+        "morphology": ""
+      }
+    },
+    {
+      "id": 42,
+      "stage": 0,
+      "unit": 1,
+      "number": 42,
+      "word": "受動文の基本形は？",
+      "meanings": [
+        "esti + 受動分詞"
+      ],
+      "partOfSpeech": "受動",
+      "note": "esti と -at-/-it-/-ot- 系の分詞を組み合わせます。",
+      "example": {
+        "eo": "La libro estas legata.",
+        "ja": "その本は読まれています。"
+      },
+      "relatedWords": [
+        {
+          "word": "estas legata",
+          "meaning": "読まれている"
+        }
+      ],
+      "tips": {
+        "origin": "",
+        "japaneseHint": "進行中なら -ata、完了なら -ita、予定なら -ota が基本です。",
+        "morphology": ""
+      }
+    }
+  ]
+}
